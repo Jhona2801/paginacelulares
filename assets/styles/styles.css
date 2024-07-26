@@ -1,3 +1,24 @@
 body{
-    background-color: aqua;
+    background-color: rgb(219, 228, 228);
+}
+/*
+los estilos se recomiendan que se agreguen de arriba para abajo
+*/
+h1 {
+    color: brown;
+}
+h2{
+    color: rgb(165, 92, 13);
+}
+.micolorpersonalizadoparah2 {
+    color: blue;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+img:hover {
+    transform: scale(1.1);
 }
